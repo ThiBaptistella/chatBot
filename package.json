@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/ThiBaptistella/chatBot.git"
   },
+  "engines": {
+    "node": "9.10.1"
+  },
   "author": "thiago baptistella",
   "license": "ISC",
   "bugs": {
